@@ -8,6 +8,6 @@ public class gitTest {
 		System.out.println("update master 02");
 		System.out.println("update test 01");
 		System.out.println("update test 02");
-		System.out.println("update master 03");
+		System.out.println("git user ");
 	}
 }
